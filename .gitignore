@@ -2,3 +2,7 @@ ReadingBook/datasets
 ReadingBook/models
 AIFFEL_quest_rs/ReadingBook/datasets/
 AIFFEL_quest_rs/ReadingBook/models/
+AIFFEL_quest_rs/Exploration/Ex02/data/
+Exploration/Ex02/data/
+Exploration/Ex03-C3/data/
+*.pth
