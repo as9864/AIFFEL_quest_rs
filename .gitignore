@@ -9,3 +9,7 @@ Exploration/Ex03-C3/data/
 Exploration/Ex05/work
 Exploration/Ex05/Mecab-ko-for-Google-Colab
 Exploration/Ex04/work
+Exploration/Ex06/data
+*.model
+*.vocab
+*.temp
