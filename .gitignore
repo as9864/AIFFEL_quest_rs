@@ -13,3 +13,6 @@ Exploration/Ex06/data
 *.model
 *.vocab
 *.temp
+*.csv
+*.zip
+*.txt
